@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shiva
-- 👀 I’m interested in learn in more detail the lenguages of prgormation
+- 👀 I’m interested in learn in more detail the lenguages of programation
 - 🌱 I’m currently learning python
